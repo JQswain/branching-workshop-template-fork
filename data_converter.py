@@ -3,9 +3,3 @@ def bytes_to_kilobytes(bytes):
     return bytes / 1024
 
 
-def main():
-    pass
-
-
-if __name__ == "__main__":
-    main()
